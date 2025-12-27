@@ -18,7 +18,16 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-![Animated Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F28C28&center=true&vCenter=true&width=800&lines=There+are+two+ways+to+write+error-free+programs%3B+only+the+third+one+works.;%E2%80%94+Alan+J.+Perlis)
+<img src="https://img.shields.io/badge/Quote-%F0%9F%8C%9F%20Alan%20J.%20Perlis-8A2BE2?style=for-the-badge&labelColor=1B1F24&color=F28C28" alt="Quote Badge" />
+
+<div style="margin-top:12px; padding:14px 18px; border-radius:10px; background:linear-gradient(135deg,#1f1f1f,#2b2b2b); color:#f8f8f2; max-width:820px; text-align:left; box-shadow:0 10px 25px rgba(0,0,0,0.25);">
+	<p style="font-size:18px; line-height:1.6; margin:0;">
+		“There are two ways to write error-free programs; only the third one works.”
+	</p>
+	<p style="font-size:15px; margin:6px 0 0 0; color:#f28c28;">— Alan J. Perlis</p>
+</div>
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gyr0byte&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
