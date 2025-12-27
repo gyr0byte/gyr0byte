@@ -15,8 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gyr0byte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️Random Dev Quote
+> "There are two ways to write error-free programs; only the third one works."
+>
+> — Alan J. Perlis
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gyr0byte&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
