@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gyr0byte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 align="center">✍️ Random Dev Quote </h3>
 
 <p align="center">
   <img
