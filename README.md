@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & ML fundamentals plus handling my college life<br>
+🔭 tameeeeeee impalaaaa<br>
 
 
 ## 🌐 Socials:
