@@ -15,14 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gyr0byte&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">✍️ Random Dev Quote </h3>
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=There%20are%20two%20ways%20to%20write%20error-free%20programs;%20only%20the%20third%20one%20works.&author=Alan%20J.%20Perlis"
-    alt="Dev Quote"
-  />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gyr0byte&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
