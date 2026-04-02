@@ -63,6 +63,6 @@
 ###
 
 <br clear="both">
-<img src="[https://raw.githubusercontent.com/gyr0byte/gyr0byte/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/gyr0byte/gyr0byte/output/github-snake-dark.svg)" />
+<img src="https://raw.githubusercontent.com/gyr0byte/gyr0byte/output/github-snake-dark.svg" />
 
 ###
