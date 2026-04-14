@@ -13,13 +13,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Make 10 daily commits
+      - name: Make daily commit
         run: |
           git config user.name "gyr0byte"
           git config user.email "gqurav69@gmail.com"
-          for i in {1..10}; do
-            echo "Auto-updated: $(date) | commit $i" > last_updated.txt
-            git add last_updated.txt
-            git commit --author="gyr0byte <gqurav69@gmail.com>" -m "chore: daily update $(date +'%Y-%m-%d') [$i/10]"
-          done
+          echo "Last auto-updated: $(date)" > last_updated.txt
+          git add last_updated.txt
+          git commit --author="gyr0byte <gqurav69@gmail.com>" -m "chore: daily update $(date +'%Y-%m-%d')"
           git push
