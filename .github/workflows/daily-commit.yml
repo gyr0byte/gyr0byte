@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: gyr0byte/daily-tracker
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Make daily commit
         run: |
