@@ -14,11 +14,15 @@ jobs:
           repository: gyr0byte/daily-tracker
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Make daily commit
+      - name: Update README and commit
         run: |
           git config user.name "gyr0byte"
           git config user.email "gqurav69@gmail.com"
-          echo "Last auto-updated: $(date)" > last_updated.txt
-          git add last_updated.txt
+          echo "# Daily Tracker" > README.md
+          echo "" >> README.md
+          echo "Last updated: $(date +'%B %d, %Y at %I:%M %p')" >> README.md
+          echo "" >> README.md
+          echo "Total days tracked: $(git rev-list --count HEAD 2>/dev/null || echo 1)" >> README.md
+          git add README.md
           git commit --author="gyr0byte <gqurav69@gmail.com>" -m "chore: daily update $(date +'%Y-%m-%d')"
           git push
