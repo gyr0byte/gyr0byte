@@ -14,15 +14,26 @@ jobs:
           repository: gyr0byte/daily-tracker
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Update README and commit
+      - name: Update daily.py and commit
         run: |
           git config user.name "gyr0byte"
           git config user.email "gqurav69@gmail.com"
-          echo "# Daily Tracker" > README.md
-          echo "" >> README.md
-          echo "Last updated: $(date +'%B %d, %Y at %I:%M %p')" >> README.md
-          echo "" >> README.md
-          echo "Total days tracked: $(git rev-list --count HEAD 2>/dev/null || echo 1)" >> README.md
-          git add README.md
+          cat > daily.py << EOF
+          # Daily Tracker
+          # Last updated: $(date +'%B %d, %Y at %I:%M %p')
+
+          import datetime
+
+          def get_info():
+              last_updated = "$(date +'%Y-%m-%d')"
+              day_count = $(git rev-list --count HEAD 2>/dev/null || echo 1)
+              return last_updated, day_count
+
+          if __name__ == "__main__":
+              date, days = get_info()
+              print(f"Last updated: {date}")
+              print(f"Days tracked: {days}")
+          EOF
+          git add daily.py
           git commit --author="gyr0byte <gqurav69@gmail.com>" -m "chore: daily update $(date +'%Y-%m-%d')"
           git push
