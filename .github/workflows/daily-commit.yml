@@ -2,7 +2,7 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    - cron: '15 23 * * *'  # 5:00 AM Nepal time
+    - cron: '15 23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,22 +18,26 @@ jobs:
         run: |
           git config user.name "gyr0byte"
           git config user.email "gqurav69@gmail.com"
-          cat > daily.py << EOF
+          git remote set-url origin https://gyr0byte:${{ secrets.PAT_TOKEN }}@github.com/gyr0byte/daily-tracker.git
+          DATE=$(date +'%Y-%m-%d')
+          DATETIME=$(date +'%B %d, %Y at %I:%M %p')
+          DAYCOUNT=$(git rev-list --count HEAD 2>/dev/null || echo 1)
+          cat > daily.py << PYEOF
           # Daily Tracker
-          # Last updated: $(date +'%B %d, %Y at %I:%M %p')
+          # Last updated: $DATETIME
 
           import datetime
 
           def get_info():
-              last_updated = "$(date +'%Y-%m-%d')"
-              day_count = $(git rev-list --count HEAD 2>/dev/null || echo 1)
+              last_updated = "$DATE"
+              day_count = $DAYCOUNT
               return last_updated, day_count
 
           if __name__ == "__main__":
               date, days = get_info()
               print(f"Last updated: {date}")
               print(f"Days tracked: {days}")
-          EOF
+          PYEOF
           git add daily.py
-          git commit --author="gyr0byte <gqurav69@gmail.com>" -m "chore: daily update $(date +'%Y-%m-%d')"
+          git commit -m "chore: daily update $DATE"
           git push
