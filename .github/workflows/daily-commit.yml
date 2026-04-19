@@ -9,35 +9,35 @@ jobs:
   auto-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          repository: gyr0byte/daily-tracker
-          token: ${{ secrets.PAT_TOKEN }}
-
-      - name: Update daily.py and commit
+      - name: Commit via GitHub API
         run: |
-          git config user.name "gyr0byte"
-          git config user.email "gqurav69@gmail.com"
-          git remote set-url origin https://gyr0byte:${{ secrets.PAT_TOKEN }}@github.com/gyr0byte/daily-tracker.git
           DATE=$(date +'%Y-%m-%d')
           DATETIME=$(date +'%B %d, %Y at %I:%M %p')
-          DAYCOUNT=$(git rev-list --count HEAD 2>/dev/null || echo 1)
-          cat > daily.py << PYEOF
+          
+          CONTENT=$(cat << EOF
           # Daily Tracker
           # Last updated: $DATETIME
-
+          
           import datetime
-
+          
           def get_info():
               last_updated = "$DATE"
-              day_count = $DAYCOUNT
-              return last_updated, day_count
-
+              return last_updated
+          
           if __name__ == "__main__":
-              date, days = get_info()
+              date = get_info()
               print(f"Last updated: {date}")
-              print(f"Days tracked: {days}")
-          PYEOF
-          git add daily.py
-          git commit -m "chore: daily update $DATE"
-          git push
+          EOF
+          )
+          
+          ENCODED=$(echo "$CONTENT" | base64 -w 0)
+          
+          SHA=$(curl -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            https://api.github.com/repos/gyr0byte/daily-tracker/contents/daily.py \
+            | python3 -c "import sys,json; print(json.load(sys.stdin)['sha'])")
+          
+          curl -s -X PUT \
+            -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/repos/gyr0byte/daily-tracker/contents/daily.py \
+            -d "{\"message\": \"chore: daily update $DATE\", \"content\": \"$ENCODED\", \"sha\": \"$SHA\"}"
