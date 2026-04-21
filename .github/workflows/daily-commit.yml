@@ -2,7 +2,7 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    - cron: '15 23 * * *'
+    - cron: '15 12 * * *'  # 6:00 PM Nepal time
   workflow_dispatch:
 
 jobs:
