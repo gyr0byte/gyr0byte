@@ -73,7 +73,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gyr0byte/gyr0byte/main/itachi.svg" width="100%" alt="Itachi Uchiha" />
+<img src="https://raw.githubusercontent.com/gyr0byte/gyr0byte/main/itachi.svg" width="50%" alt="Itachi Uchiha" />
 
 ###
 
