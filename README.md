@@ -73,10 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gyr0byte/gyr0byte/main/itachi.svg" width="50%" alt="Itachi Uchiha" />
-
-###
-
 <br clear="both">
 <img src="https://raw.githubusercontent.com/gyr0byte/gyr0byte/output/github-snake-dark.svg" />
 
