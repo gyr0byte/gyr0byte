@@ -4,13 +4,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=gyr0byte&cache_seconds=0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
   <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=1&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=8&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR5MjI3cTQ4dnEyOTIwNmhqcXIwZmVsMzN0dm43ZzZ6dDNidWVjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR5MjI3cTQ4dnEyOTIwNmhqcXIwZmVsMzN0dm43ZzZ6dDNidWVjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"/>
 
 ###
 
