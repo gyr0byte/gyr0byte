@@ -77,3 +77,7 @@
 <img src="https://raw.githubusercontent.com/gyr0byte/gyr0byte/output/github-snake-dark.svg" />
 
 ###
+
+[![committers.top badge](https://user-badge.committers.top/nepal/gyr0byte.svg)](https://user-badge.committers.top/nepal/gyr0byte)
+
+###
