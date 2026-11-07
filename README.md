@@ -44,11 +44,11 @@ class Developer:
 
 ### `$ cat stack.md`
 
-<img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,fastapi&theme=dark" alt="Languages and web"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,react,nodejs,fastapi&theme=dark" alt="Languages and web"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=numpy,matplotlib,sklearn,pytorch,tensorflow,langchain&theme=dark" alt="ML and data"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn,pytorch,tensorflow,huggingface&theme=dark" alt="ML and data"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,jupyter,git,github&theme=dark" alt="Databases and tools"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,docker,jupyter,git,github,langchain&theme=dark" alt="Databases and tools"/>
 
 <code>+ pandas · hugging face</code>
 
