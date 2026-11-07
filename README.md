@@ -61,6 +61,7 @@ class Developer:
 <img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
 <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=0&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
 </div>
+</div>
 
 ###
 
