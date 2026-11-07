@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,45:44475a,100:bd93f9&height=190&section=header&text=GYR0BYTE&fontSize=58&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=I%20will%20never%20stop.%20That%20is%20a%20promise%20to%20myself.&descSize=15&descAlignY=60" alt="GYR0BYTE header"/>
 
@@ -42,7 +42,7 @@
 </tr>
 </table>
 
-###
+<br/>
 
 <div align="center">
 
@@ -56,20 +56,19 @@
 
 </div>
 
-###
+<br/>
 
 <div align="center">
 
 ### 📊 GITHUB ANALYTICS
 
-<div align="center">
 <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=gyr0byte&cache_seconds=0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" />
 <img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
 <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=0&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
-</div>
+
 </div>
 
-###
+<br/>
 
 <div align="center">
 
@@ -101,7 +100,8 @@
 </p>
 
 </div>
-###
+
+<br/>
 
 <div align="center">
 
@@ -139,7 +139,7 @@
 
 </div>
 
-###
+<br/>
 
 <div align="center">
 
@@ -155,7 +155,7 @@
 
 </div>
 
-###
+<br/>
 
 <div align="center">
 
