@@ -96,7 +96,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
 <img src="https://cdn.simpleicons.org/github/white" height="32" alt="GitHub"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="32" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/langchain/white" height="32" alt="LangChain"/>
 </p>
 
 </div>
