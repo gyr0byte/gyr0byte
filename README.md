@@ -107,12 +107,16 @@
 
 ### 🌐 FIND ME IN THE DIGITAL WORLD
 
-<a href="https://www.instagram.com/wtf_gauravv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282a36?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-<a href="https://twitch.tv/gaurav69_" target="_blank"><img src="https://img.shields.io/badge/Twitch-282a36?style=flat-square&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
-<a href="mailto:gqurav69@gmail.com"><img src="https://img.shields.io/badge/Gmail-282a36?style=flat-square&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/gaurav-dulal-66b7b4370/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
-<a href="https://stackoverflow.com/users/32109422" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-282a36?style=flat-square&logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow"/></a>
-<a href="https://leetcode.com/u/gyr0byte/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-282a36?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<p align="center">
+<a href="https://www.instagram.com/wtf_gauravv/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://twitch.tv/gaurav69_" target="_blank"><img src="https://cdn.simpleicons.org/twitch/9146FF" height="32" alt="Twitch"/></a>&nbsp;&nbsp;
+<a href="mailto:gqurav69@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gaurav-dulal-66b7b4370/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/32109422" target="_blank"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="32" alt="Stack Overflow"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/gyr0byte/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32" alt="LeetCode"/></a>
+</p>
+
+<code>$ ping gyr0byte --all</code>
 
 </div>
 <br>
