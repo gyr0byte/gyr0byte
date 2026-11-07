@@ -44,11 +44,28 @@ class Developer:
 
 ### `$ cat stack.md`
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,java,js,react,nodejs,fastapi&theme=dark" alt="Languages and web"/>
+<a href="https://docs.python.org/3/"><img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" height="48" alt="Python"/></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" height="48" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" height="48" alt="JavaScript"/></a>
+<a href="https://react.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" height="48" alt="React"/></a>
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" height="48" alt="Node.js"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/></a>
 <br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn,pytorch,tensorflow,huggingface&theme=dark" alt="ML and data"/>
+<a href="https://pandas.pydata.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="48" alt="Pandas"/></a>
+<a href="https://numpy.org/doc/stable/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" height="48" alt="NumPy"/></a>
+<a href="https://matplotlib.org/stable/index.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" height="48" alt="Matplotlib"/></a>
+<a href="https://scikit-learn.org/stable/"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" height="48" alt="Scikit-learn"/></a>
+<a href="https://pytorch.org/docs/stable/index.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" height="48" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/api_docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow"/></a>
+<a href="https://huggingface.co/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="48" alt="Hugging Face"/></a>
 <br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,docker,jupyter,git,github,langchain&theme=dark" alt="Databases and tools"/>
+<a href="https://www.postgresql.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="48" alt="MongoDB"/></a>
+<a href="https://docs.docker.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="48" alt="Docker"/></a>
+<a href="https://docs.jupyter.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter"/></a>
+<a href="https://git-scm.com/doc"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="48" alt="Git"/></a>
+<a href="https://docs.github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="48" alt="GitHub"/></a>
+<a href="https://docs.langchain.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="48" alt="LangChain"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:191724,50:bd93f9,100:191724&height=2" alt=""/>
 
