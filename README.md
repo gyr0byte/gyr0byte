@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,45:44475a,100:bd93f9&height=190&section=header&text=GYR0BYTE&fontSize=58&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=I%20will%20never%20stop.%20That%20is%20a%20promise%20to%20myself.&descSize=15&descAlignY=60" alt="GYR0BYTE header"/>
 
@@ -16,27 +16,31 @@
 
 ### `$ whoami`
 
-<div align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="65%" valign="middle">
 
-```python
-class Developer:
-    def __init__(self):
-        self.username = "gyr0byte"
-        self.role = "CS Student"
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "Software Engineering"
-        ]
-        self.mindset = "Always building, never stopping"
+<pre><code class="language-python">class Developer:
+    username = "gyr0byte"
+    role = "CS Student"
+
+    interests = [
+        "Machine Learning",
+        "Generative AI",
+        "Software Engineering"
+    ]
+
+    mindset = "Always building, never stopping"
 
     def work(self):
-        return "Learn → Build → Break → Fix → Repeat"
-```
+        return "Learn → Build → Break → Fix → Repeat"</code></pre>
 
-<img height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dpa2kxZXR0MXl3bW91dWY0ank1OG8wNjh5c3UxdDdhdmJibWV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlCb3AjEE6N4Q/giphy.gif" alt="Anime sharingan GIF"/>
-
-</div>
+</td>
+<td width="35%" align="center" valign="middle">
+<img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dpa2kxZXR0MXl3bW91dWY0ank1OG8wNjh5c3UxdDdhdmJibWV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlCb3AjEE6N4Q/giphy.gif" alt="Anime sharingan GIF"/>
+</td>
+</tr>
+</table>
 
 ###
 
@@ -58,16 +62,11 @@ class Developer:
 
 ### 📊 GITHUB ANALYTICS
 
-<img width="495" src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=gyr0byte&cache_seconds=0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub stats"/>
-
-<br/><br/>
-
-<img width="495" src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="440" src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=0&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html" alt="Top languages"/>
-
+<div align="center">
+<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=gyr0byte&cache_seconds=0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
+<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=0&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
+</div>
 </div>
 
 ###
