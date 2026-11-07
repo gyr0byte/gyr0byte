@@ -50,8 +50,6 @@ class Developer:
 <br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,docker,jupyter,git,github,langchain&theme=dark" alt="Databases and tools"/>
 
-<code>+ pandas · hugging face</code>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:191724,50:bd93f9,100:191724&height=2" alt=""/>
 
 ### `$ git stats`
