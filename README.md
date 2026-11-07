@@ -107,40 +107,15 @@
 
 ### 🌐 FIND ME IN THE DIGITAL WORLD
 
-<br/>
-
-<a href="https://www.instagram.com/wtf_gauravv/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://twitch.tv/gaurav69_" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch"/>
-</a>
-
-<br/><br/>
-
-<a href="mailto:gqurav69@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/gaurav-dulal-66b7b4370/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://stackoverflow.com/users/32109422" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stack Overflow"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/gyr0byte/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" alt="LeetCode"/>
-</a>
+<a href="https://www.instagram.com/wtf_gauravv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282a36?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://twitch.tv/gaurav69_" target="_blank"><img src="https://img.shields.io/badge/Twitch-282a36?style=flat-square&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
+<a href="mailto:gqurav69@gmail.com"><img src="https://img.shields.io/badge/Gmail-282a36?style=flat-square&logo=gmail&logoColor=D14836" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/gaurav-dulal-66b7b4370/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+<a href="https://stackoverflow.com/users/32109422" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-282a36?style=flat-square&logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow"/></a>
+<a href="https://leetcode.com/u/gyr0byte/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-282a36?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
 
 </div>
-
-<br/>
-
+<br>
 <div align="center">
 
 ### 🐍 CONTRIBUTION MATRIX
