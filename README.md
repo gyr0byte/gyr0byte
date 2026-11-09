@@ -60,7 +60,7 @@ class Developer:
 <a href="https://huggingface.co/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="48" alt="Hugging Face"/></a>
 <br/>
 <a href="https://www.postgresql.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark" height="48" alt="MongoDB"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" height="48" alt="TypeScript"/></a>
 <a href="https://docs.docker.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="48" alt="Docker"/></a>
 <a href="https://docs.jupyter.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter"/></a>
 <a href="https://git-scm.com/doc"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="48" alt="Git"/></a>
@@ -71,9 +71,9 @@ class Developer:
 
 ### `$ git stats`
 
-<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=gyr0byte&cache_seconds=1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=10" height="170" alt="stats graph" />
-<img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
-<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=1&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
+<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=gyr0byte&cache_seconds=0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=10" height="170" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=gyr0byte&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
+<img src="https://github-readme-stats-mauve-nine-96.vercel.app/api/top-langs?username=gyr0byte&cache_seconds=0&locale=en&hide_title=false&layout=compact&card_width=440&langs_count=10&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide=html" height="170" alt="languages graph" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:191724,50:bd93f9,100:191724&height=2" alt=""/>
 
