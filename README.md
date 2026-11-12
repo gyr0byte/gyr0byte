@@ -44,28 +44,28 @@ class Developer:
 
 ### `$ cat stack.md`
 
-<a href="https://docs.python.org/3/"><img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" height="48" alt="Python"/></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" height="48" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" height="48" alt="JavaScript"/></a>
-<a href="https://react.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" height="48" alt="React"/></a>
-<a href="https://nodejs.org/docs/latest/api/"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" height="48" alt="Node.js"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/></a>
-<br/>
-<a href="https://pandas.pydata.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="48" alt="Pandas"/></a>
-<a href="https://numpy.org/doc/stable/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" height="48" alt="NumPy"/></a>
-<a href="https://matplotlib.org/stable/index.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" height="48" alt="Matplotlib"/></a>
-<a href="https://scikit-learn.org/stable/"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" height="48" alt="Scikit-learn"/></a>
-<a href="https://pytorch.org/docs/stable/index.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" height="48" alt="PyTorch"/></a>
-<a href="https://www.tensorflow.org/api_docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow"/></a>
-<a href="https://huggingface.co/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="48" alt="Hugging Face"/></a>
-<br/>
-<a href="https://www.postgresql.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" height="48" alt="PostgreSQL"/></a>
-<a href="https://www.typescriptlang.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark" height="48" alt="TypeScript"/></a>
-<a href="https://docs.docker.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="48" alt="Docker"/></a>
-<a href="https://docs.jupyter.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="48" alt="Jupyter"/></a>
-<a href="https://git-scm.com/doc"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="48" alt="Git"/></a>
-<a href="https://docs.github.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="48" alt="GitHub"/></a>
-<a href="https://docs.langchain.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="48" alt="LangChain"/></a>
+<a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/></a>
+<a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/></a>
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/></a>
+<br/><br/>
+<a href="https://pandas.pydata.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/></a>
+<a href="https://numpy.org/doc/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/></a>
+<a href="https://matplotlib.org/stable/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/></a>
+<a href="https://scikit-learn.org/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/></a>
+<a href="https://pytorch.org/docs/stable/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/api_docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/></a>
+<a href="https://huggingface.co/docs"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face"/></a>
+<br/><br/>
+<a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/></a>
+<a href="https://docs.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
+<a href="https://docs.jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/></a>
+<a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/></a>
+<a href="https://docs.github.com"><img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub"/></a>
+<a href="https://docs.langchain.com"><img src="https://cdn.simpleicons.org/langchain/white" height="40" alt="LangChain"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:191724,50:bd93f9,100:191724&height=2" alt=""/>
 
